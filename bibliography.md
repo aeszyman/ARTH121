@@ -1,0 +1,1 @@
+Bindman, David, Henry Louis Gates, Jr., and Karen C.C. Dalton. _The Image of the Black in Western Art_. Cambridge, Mass.: Belknap Press of Harvard University Press: In collaboration with the W.E.B. Du Bois Institute for African and African American Research; Houston, Tex.: Menil Collection, 2010-.
