@@ -8,31 +8,31 @@ This introductory-level course examines art historical methods and their applica
 #### September 2: Art in the Stone Age
 * Will Hunt, "Chapter 1: Descend," in _Underground: A Human History of the Worlds Beneath Our Feet_ (Simon & Schuster UK, 2019), 3-29.
 * _Cave of Forgotten Dreams_
-#### September 4
-#### September 9
-#### September 11
-#### September 16
-#### September 18
-#### September 23
-#### September 25
-#### September 30
-#### October 2
-#### October 7
+#### September 4: Art in the Stone Age
+#### September 9: Ancient Mesopotamia and Persia
+#### September 11: Ancient Mesopotamia and Persia
+#### September 16: Egypt from Narmer to Cleopatra
+#### September 18: Egypt from Narmer to Cleopatra
+#### September 23: Field Trip to the Virginia Museum of Fine Arts
+#### September 25: The Prehistoric Aegean
+#### September 30: Ancient Greece
+#### October 2: Ancient Greece
+#### October 7: Review
 #### October 9: Midterm Exam
 #### October 14: Fall Break
-#### October 16
-#### October 21
-#### October 23
-#### October 28
-#### October 30
-#### November 4
-#### November 6
-#### November 11
-#### November 13
-#### November 18
-#### November 20
-#### November 25
-#### November 27
-#### December 2
+#### October 16: The Etruscans
+#### October 21: The Roman Empire
+#### October 23: The Roman Empire
+#### October 28: The Roman Empire
+#### October 30: Late Antiquity
+#### November 4: Byzantium
+#### November 6: The Islamic World
+#### November 11: Early Medieval Europe
+#### November 13: Romanesque Europe
+#### November 18: Romanesque Europe
+#### November 20: Gothic Europe
+#### November 25: Gothic Europe
+#### November 27: Field Trip to the Rare Book Room
+#### December 2: Field Trip to the Rare Book Room
 #### December 4: Review and Conclusions
 #### December 9: Final Exam (9AM-12PM)
