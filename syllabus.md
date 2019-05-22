@@ -4,7 +4,7 @@ This introductory-level course examines art historical methods and their applica
 
 ## Schedule
 #### August 26: Introductions
-#### August 28: Field Trip to the Science Museum of Virginia
+#### August 28: Field Trip to Science Museum of Virginia
 #### September 2: Art in the Stone Age
 * Will Hunt, "Chapter 1: Descend," in _Underground: A Human History of the Worlds Beneath Our Feet_ (Simon & Schuster UK, 2019), 3-29.
 * _Cave of Forgotten Dreams_ (2010): Documentary. "Werner Herzog gains exclusive access to film inside the Chauvet caves of Southern France and captures the oldest known pictorial creations of humanity." (IMDb)
@@ -13,7 +13,7 @@ This introductory-level course examines art historical methods and their applica
 #### September 11: Ancient Mesopotamia and Persia
 #### September 16: Egypt from Narmer to Cleopatra
 #### September 18: Egypt from Narmer to Cleopatra
-#### September 23: Field Trip to the Virginia Museum of Fine Arts
+#### September 23: Field Trip to Virginia Museum of Fine Arts
 #### September 25: The Prehistoric Aegean
 #### September 30: Ancient Greece
 #### October 2: Ancient Greece
@@ -32,7 +32,7 @@ This introductory-level course examines art historical methods and their applica
 #### November 18: Romanesque Europe
 #### November 20: Gothic Europe
 #### November 25: Gothic Europe
-#### November 27: Field Trip to the Rare Book Room
-#### December 2: Field Trip to the Rare Book Room
+#### November 27: Field Trip to Rare Book Room
+#### December 2: Field Trip to Rare Book Room
 #### December 4: Review and Conclusions
 #### December 9: Final Exam (9AM-12PM)
