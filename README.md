@@ -1,1 +1,1 @@
-Introduction to Mediterranean Art: Prehistory to the Middle Ages
+Introduction to Mediterranean Art and Architecture: Prehistory to the Middle Ages
