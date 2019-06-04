@@ -2,7 +2,7 @@
 
 This introductory-level course examines art historical methods and their application to a broad roughly chronological survey of Mediterranean art and architecture from Prehistory to the Middle Ages. Field trips to the Science Museum of Virginia, Virginia Museum of Fine Arts, and Rare Book Room enhance the understanding of historical traditions and critical methods taught in class lectures and discussions.
 
-## Discussion
+## Class Discussion
 Research demonstrates that when you participate in class discussion, it benefits you. Most of you will pursue careers that require you to work in teams. To be an effective team member, one must be able to engage in dialogue, learn from colleagues, and help deal with challenges as a group. It is OK to challenge and refute ideas or positions, but not acceptable to attack someone personally or engage in name-calling.
 
 ## Schedule
