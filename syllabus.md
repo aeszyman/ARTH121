@@ -9,7 +9,6 @@ Research demonstrates that when you participate in class discussion, it benefits
 #### August 26: Introductions
 #### August 28: Field Trip to Science Museum of Virginia
 #### September 2: Art in the Stone Age
-* Will Hunt, "Chapter 1: Descend," in _Underground: A Human History of the Worlds Beneath Our Feet_ (Simon & Schuster UK, 2019), 3-29.
 * _Cave of Forgotten Dreams_ (2010): Documentary. "Werner Herzog gains exclusive access to film inside the Chauvet caves of Southern France and captures the oldest known pictorial creations of humanity." (IMDb)
 #### September 4: Art in the Stone Age
 #### September 9: Ancient Mesopotamia and Persia
