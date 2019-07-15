@@ -2,6 +2,8 @@ Bindman, David, Henry Louis Gates, Jr., and Karen C.C. Dalton. _The Image of the
 
 Cassibry, Kimberly. "The Tyranny of the _Dying Gaul_: Confronting an Ethnic Stereotype in Ancient Art." _The Art Bulletin_ 99.2 (June 2017): 6-40.
 
+Doherty, Keith J. "The Judgment of Paris in Roman Painting." _The Art Bulletin_ 44.4 (December 2012): 528-547.
+
 Hunt, Will. _Underground: A Human History of the Worlds Beneath Our Feet_. 2019.
 
 Kousser, Rachel. "Destruction and Memory on the Athenian Acropolis." _The Art Bulletin_ 41.3 (September 2009): 263-282.
