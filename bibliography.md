@@ -4,6 +4,8 @@ Cassibry, Kimberly. "The Tyranny of the _Dying Gaul_: Confronting an Ethnic Ster
 
 Hunt, Will. _Underground: A Human History of the Worlds Beneath Our Feet_. 2019.
 
+Kousser, Rachel. "Destruction and Memory on the Athenian Acropolis." _The Art Bulletin_ 41.3 (September 2009): 263-282.
+
 Molholt, Rebecca. "Roman Labyrinth Mosaic and the Experience of Motion." _The Art Bulletin_ 43.3 (September 2011): 287-303.
 
 Moyes, Holly. _Sacred Darkness: A Global Perspective on the Ritual Use of Caves_. University Press of Colorado, 2012.
