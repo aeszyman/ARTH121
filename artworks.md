@@ -26,28 +26,28 @@
 25. Athanadoros, Hagesandros, and Polydoros of Rhodes, Laocoön and his sons, from Rome, Italy, early first century CE. Marble. (5-89)
 
 ###### Final
-26. Tarquinia
-27. Apotheosis
-28. Man with portrait busts
-29. Dionysiac mystery frieze
-30. Portrait of Augustus as general
-31. Colosseum
-32. Column of Trajan
-33. Pantheon
-34. Arch of Constantine
-35. Sarcophagus of Junius Bassus
-36. The Good Shepherd
-37. Interior of San Vitale
-38. Hagia Sophia
-39. Aerial view of the Great Mosque, Córdoba
-40. Dome of the Rock
-41. Mosque lamp
-42. Utrecht Psalter
-43. Chi-rho-iota
-44. Gero crucifix
-45. Sainte Foy
-46. Gislebertus
-47. Bayeux Tapestry
-48. Reims Cathedral
-49. Pucelle
-50. Castle of Love
+26. Interior of the Tomb of the Leopards, Tarquinia, Italy, ca. 480 BCE. (6-1)
+27. Apotheosis of Antoninus Pius and Faustina, relief on the pedestal of the Column of Antoninus Pius, Rome, Italy, ca. 160 BCE. Marble. (7-1)
+28. Man with portrait busts of his ancestors, from Rome, Italy, late first century BCE. Marble. (7-7)
+29. Dionysiac mystery frieze, wall paintings in the Villa of the Mysteries, Pompeii, Italy, ca. 50 BCE. Fresco. (7-18)
+30. Portrait of Augustus as general, from Primaporta, Italy, early-first-century CE copy of a bronze original of ca. 20 BCE. Marble. (7-27)
+31. Colosseum (Flavian Amphitheater), Rome, Italy, ca. 80 CE. (7-36)
+32. Column of Trajan, Forum of Trajan, Rome, Italy, dedicated 112 CE. (7-45)
+33. Pantheon, Rome, Italy, 125 CE. (7-51)
+34. Arch of Constantine, Rome, Italy, 315 CE. (7-73)
+35. Sarcophagus of Junius Bassus, from Rome, Italy, ca. 360. Marble. (8-1)
+36. The Good Shepherd, the story of Jonah, and orants, frescoed ceiling of a cubiculum in the Catacomb of Saints Peter and Marcellinus, Rome, Italy, early fourth century. (8-6)
+37. San Vitale, Ravenna, Italy, 530. (9-1)
+38. Anthemius of Tralles and Isidorus of Miletus, Hagia Sophia, Constantinople (Istanbul), Turkey, 535. (9-8)
+39. Great Mosque of Córdoba, Spain, 8th to 10th centuries. (10-1)
+40. Dome of the Rock, Jerusalem, 690. (10-2)
+41. Mosque lamp, from Egypt, 1340. Glass with enamel decoration. (10-32)
+42. _Utrecht Psalter_, from the abbey of Saint Peter, Hautvillers, France, ca. 820. Ink on vellum. (11-1)
+43. _Chi-rho-iota_ page, _Book of Kells_, probably from Iona, Scotland, late eighth or early ninth century. Tempera on vellum. (11-9)
+44. _Gero Crucifix_, Cologne Cathedral, Cologne, Germany, ca. 970. Painted wood. (11-29)
+45. Reliquary statue of Sainte Foy, late 10th to early 11th century with later additions. Gold, silver gilt, jewels, and cameos over a wood core. (12-2)
+46. Gislebertus, _Last Judgment_, west tympanum of Saint-Lazare, Autun, France, ca. 1120. Marble. (12-15)
+47. Battle of Hastings, detail of the _Bayeux Tapestry_, from Bayeux Cathedral, Bayeux, France, ca. 1080. Embroidered wool on linen. (12-41)
+48. Cathedral of Reims, France, ca. 1290. (13-1)
+49. Pucelle, _Hours of Jeanne d'Evreux_, ca. 1325. (13-35A)
+50. _Castle of Love_, lid of a jewelry box, from Paris, France, ca. 1350. Ivory and iron. (13-38)
