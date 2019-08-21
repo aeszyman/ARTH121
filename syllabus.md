@@ -19,6 +19,8 @@ Research demonstrates that when you participate in class discussion, it benefits
 #### September 25: The Prehistoric Aegean
 #### September 30: Ancient Greece
 #### October 2: Ancient Greece
+#### October 3: "Ruined Gardens of Babylon: Dark Ecology and Heritage Politics in the Middle East"
+Lecture by Dr. Ömür Harmansah. 6 pm, Gottwald Auditorium.
 #### October 7: Review
 #### October 9: Midterm Exam
 #### October 14: Fall Break
