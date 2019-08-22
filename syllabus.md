@@ -32,12 +32,12 @@ Lecture by Dr. Ömür Harmansah. 6 pm, Gottwald Auditorium.
 #### October 28: Late Antiquity
 #### October 30: Byzantium
 #### November 4: The Islamic World
-#### November 6: The Islamic World
-#### November 11: Early Medieval Europe
+#### November 6: Early Medieval Europe
+#### November 11: Romanesque Europe
 #### November 13: Romanesque Europe
-#### November 18: Romanesque Europe
+#### November 18: Gothic Europe
 #### November 20: Gothic Europe
-#### November 25: Gothic Europe
+#### November 25: Field Trip to Rare Book Room
 #### November 27: Field Trip to Rare Book Room
 #### December 2: Field Trip to Rare Book Room
 #### December 4: Review and Conclusions
