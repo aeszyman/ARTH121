@@ -7,29 +7,31 @@ Research demonstrates that when you participate in class discussion, it benefits
 
 ## Schedule
 #### August 26: Introductions
-#### August 28: Field Trip to Science Museum of Virginia
-#### September 2: Art in the Stone Age
+#### August 28: Art in the Stone Age
 * _Cave of Forgotten Dreams_ (2010): Documentary. "Werner Herzog gains exclusive access to film inside the Chauvet caves of Southern France and captures the oldest known pictorial creations of humanity." (IMDb)
-#### September 4: Art in the Stone Age
+#### August 30: Field Trip to Science Museum of Virginia
+#### September 2: Art in the Stone Age
+#### September 4: Ancient Mesopotamia and Persia
 #### September 9: Ancient Mesopotamia and Persia
-#### September 11: Ancient Mesopotamia and Persia
+#### September 11: Egypt from Narmer to Cleopatra
 #### September 16: Egypt from Narmer to Cleopatra
-#### September 18: Egypt from Narmer to Cleopatra
-#### September 23: Field Trip to Virginia Museum of Fine Arts
-#### September 25: The Prehistoric Aegean
+#### September 18: The Prehistoric Aegean
+#### Field Trip to Virginia Museum of Fine Arts
+#### September 23: Ancient Greece
+#### September 25: Ancient Greece
 #### September 30: Ancient Greece
-#### October 2: Ancient Greece
+#### October 2: Review
 #### October 3: "Ruined Gardens of Babylon: Dark Ecology and Heritage Politics in the Middle East"
 Lecture by Dr. Ömür Harmansah. 6 pm, Gottwald Auditorium.
-#### October 7: Review
-#### October 9: Midterm Exam
+#### October 7: Midterm Exam
+#### October 9: The Etruscans
 #### October 14: Fall Break
-#### October 16: The Etruscans
+#### October 16: The Roman Empire
 #### October 21: The Roman Empire
 #### October 23: The Roman Empire
-#### October 28: The Roman Empire
-#### October 30: Late Antiquity
-#### November 4: Byzantium
+#### October 28: Late Antiquity
+#### October 30: Byzantium
+#### November 4: The Islamic World
 #### November 6: The Islamic World
 #### November 11: Early Medieval Europe
 #### November 13: Romanesque Europe
