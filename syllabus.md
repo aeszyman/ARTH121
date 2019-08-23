@@ -9,7 +9,7 @@ Research demonstrates that when you participate in class discussion, it benefits
 #### August 26: Introductions
 #### August 28: Art in the Stone Age
 * _Cave of Forgotten Dreams_ (2010): Documentary. "Werner Herzog gains exclusive access to film inside the Chauvet caves of Southern France and captures the oldest known pictorial creations of humanity." (IMDb)
-#### August 30: Field Trip to Science Museum of Virginia
+#### Friday, August 30: Field Trip to Science Museum of Virginia (5:15 pm)
 #### September 2: Art in the Stone Age
 #### September 4: Ancient Mesopotamia and Persia
 #### September 9: Ancient Mesopotamia and Persia
