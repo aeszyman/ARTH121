@@ -1,6 +1,6 @@
 # Introduction to Mediterranean Art and Architecture: Prehistory through the Middle Ages
 
-This introductory-level course examines art historical methods and their application to a broad, roughly chronological survey of Mediterranean art and architecture from Prehistory to the Middle Ages. Field trips to the Science Museum of Virginia, Virginia Museum of Fine Arts, and Rare Book Room enhance the understanding of historical traditions and critical methods taught in class lectures and discussions.
+This introductory-level course examines art historical methods and their application to a broad, roughly chronological survey of Mediterranean art and architecture from Prehistory to the Middle Ages. Field trips to the Science Museum of Virginia, Virginia Museum of Fine Arts, and Boatwright Memorial Library (Rare Book Room Space) enhance the understanding of historical traditions and critical methods taught in class lectures and discussions.
 
 ## Class Discussion
 Research demonstrates that when you participate in class discussion, it benefits you. Most of you will pursue careers that require you to work in teams. To be an effective team member, one must be able to engage in dialogue, learn from colleagues, and help deal with challenges as a group. It is OK to challenge and refute ideas or positions, but not acceptable to attack someone personally or engage in name-calling.
@@ -38,7 +38,8 @@ Lecture by Dr. Ömür Harmansah. 6 pm, Gottwald Auditorium.
 #### November 18: Gothic Europe
 #### November 20: Gothic Europe
 #### November 25: Field Trip to Rare Book Room
-#### November 27: Field Trip to Rare Book Room
+#### November 27: Thanksgiving Break
 #### December 2: Field Trip to Rare Book Room
-#### December 4: Review and Conclusions
+#### December 4: Field Trip to Rare Book Room
+#### Thursday, December 5: Review and Conclusions
 #### December 9: Final Exam (9 am-12 pm)
