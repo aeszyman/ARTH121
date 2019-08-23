@@ -29,6 +29,11 @@ Historical studies examine events and actors of the recent or distant past withi
 
 By emphasizing the critical analysis of sources and the interrelationships among ideas, institutions, social structures, and events within one or more interpretive frameworks, these courses foster students' awareness of the methods and perspectives for understanding past societies and cultures in historical context. Courses that focus narrowly on the history of a discipline, that only use chronology as an organizational structure, or that do not stress the context in which ideas and events occurred fall outside the category of historical studies.
 
+## Learning Goals
+Although this course includes an overview of major monuments and works of art, its main objective is to equip students with skills of historical research and interpretation. In this course, students learn to apply methods of historical studies as they critically analyze key examples of material and visual culture produced by premodern societies and cultures. For example, to understand the historical context of Gothic cathedrals, students read primary sources that portray the construction process of these monuments in terms of social harmony or disruption. The students’ critical analysis of these primary sources enables them to nuance their understanding of not only the social impact of architectural monuments, but also of the historical context that led to their completion.
+
+Through a combination of lecture presentations, in-depth group discussions of primary sources, museum visits, and writing assignments, students gain an understanding of the historical contexts, as well as social and cultural practices, out of which arose the canonical monuments and artworks of the premodern Mediterranean region.
+
 ## Class Discussion
 Research demonstrates that when you participate in class discussion, it benefits you. Most of you will pursue careers that require you to work in teams. To be an effective team member, one must be able to engage in dialogue, learn from colleagues, and help deal with challenges as a group. It is OK to challenge and refute ideas or positions, but not acceptable to attack someone personally or engage in name-calling.
 
