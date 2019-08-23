@@ -35,6 +35,8 @@ Although this course includes an overview of major monuments and works of art, i
 ## Class Discussion
 Research demonstrates that when you participate in class discussion, it benefits you. Most of you will pursue careers that require you to work in teams. To be an effective team member, one must be able to engage in dialogue, learn from colleagues, and help deal with challenges as a group. It is OK to challenge and refute ideas or positions, but not acceptable to attack someone personally or engage in name-calling.
 
+## Grading
+
 ## Schedule
 #### August 26: Introductions
 #### August 28: Art in the Stone Age
