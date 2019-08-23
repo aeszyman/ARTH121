@@ -2,6 +2,11 @@
 
 This introductory-level course examines art historical methods and their application to a broad, roughly chronological survey of Mediterranean art and architecture from Prehistory to the Middle Ages. Field trips to the Science Museum of Virginia, Virginia Museum of Fine Arts, and Boatwright Memorial Library (Rare Book Room Space) enhance the understanding of historical traditions and critical methods taught in class lectures and discussions. This course satisfies FSHT general education requirement.
 
+## Historical Studies (FSHT)
+Historical studies examine events and actors of the recent or distant past within the context of the ideas, institutions, social norms, cultural practices, and physical environments out of which they arose. Courses with a historical perspective enable us to understand the values and institutions of disparate societies and cultures as they have developed over time.
+
+By emphasizing the critical analysis of sources and the interrelationships among ideas, institutions, social structures, and events within one or more interpretive frameworks, these courses foster students' awareness of the methods and perspectives for understanding past societies and cultures in historical context. Courses that focus narrowly on the history of a discipline, that only use chronology as an organizational structure, or that do not stress the context in which ideas and events occurred fall outside the category of historical studies.
+
 ## Class Discussion
 Research demonstrates that when you participate in class discussion, it benefits you. Most of you will pursue careers that require you to work in teams. To be an effective team member, one must be able to engage in dialogue, learn from colleagues, and help deal with challenges as a group. It is OK to challenge and refute ideas or positions, but not acceptable to attack someone personally or engage in name-calling.
 
