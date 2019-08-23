@@ -10,7 +10,19 @@ Visual Arts 212
 
 Office Hours: Wednesdays 4-6 pm or by appointment
 
-This introductory-level course examines art historical methods and their application to a broad, roughly chronological survey of Mediterranean art and architecture from Prehistory to the Middle Ages. Field trips to the Science Museum of Virginia, Virginia Museum of Fine Arts, and Boatwright Memorial Library (Rare Book Room Space) enhance the understanding of historical traditions and critical methods taught in class lectures and discussions. This course satisfies the General Education category of Historical Studies (FSHT).
+## Course Description
+This introductory-level course examines art historical methods and their application to a broad, roughly chronological survey of Mediterranean art and architecture from Prehistory to the Middle Ages. Field trips to the Science Museum of Virginia, Virginia Museum of Fine Arts, and Boatwright Memorial Library (Rare Book Room Space) enhance the understanding of historical traditions and critical methods taught in class lectures and discussions.
+
+In this course, which situates major works of premodern art and architecture in their historical contexts, students gain an understanding of the impact of disparate cultures and societies on 
+their physical and epistemological environments. Every week, students critically analyze and 
+discuss primary sources, both visual and textual. By emphasizing topics such as artistic 
+patronage, the rise and fall of empires, urban development, ritual practices, and organized 
+religious movements, this course fosters students’ understanding of each discussed culture’s 
+social structures and cultural norms that informed and were shaped by the material and visual 
+culture of the time. The content and assignments for this class focus on the Mediterranean 
+region, the Middle East, North Africa, and Europe from prehistoric to medieval times.
+
+This course satisfies the General Education category of Historical Studies (FSHT).
 
 ## Historical Studies (FSHT)
 Historical studies examine events and actors of the recent or distant past within the context of the ideas, institutions, social norms, cultural practices, and physical environments out of which they arose. Courses with a historical perspective enable us to understand the values and institutions of disparate societies and cultures as they have developed over time.
