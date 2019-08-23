@@ -1,6 +1,6 @@
 # Introduction to Mediterranean Art and Architecture: Prehistory through the Middle Ages
 
-This introductory-level course examines art historical methods and their application to a broad, roughly chronological survey of Mediterranean art and architecture from Prehistory to the Middle Ages. Field trips to the Science Museum of Virginia, Virginia Museum of Fine Arts, and Boatwright Memorial Library (Rare Book Room Space) enhance the understanding of historical traditions and critical methods taught in class lectures and discussions. This course satisfies FSHT general education requirement.
+This introductory-level course examines art historical methods and their application to a broad, roughly chronological survey of Mediterranean art and architecture from Prehistory to the Middle Ages. Field trips to the Science Museum of Virginia, Virginia Museum of Fine Arts, and Boatwright Memorial Library (Rare Book Room Space) enhance the understanding of historical traditions and critical methods taught in class lectures and discussions. This course satisfies the General Education category of Historical Studies (FSHT).
 
 ## Historical Studies (FSHT)
 Historical studies examine events and actors of the recent or distant past within the context of the ideas, institutions, social norms, cultural practices, and physical environments out of which they arose. Courses with a historical perspective enable us to understand the values and institutions of disparate societies and cultures as they have developed over time.
