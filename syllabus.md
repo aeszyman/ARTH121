@@ -9,7 +9,7 @@ Research demonstrates that when you participate in class discussion, it benefits
 #### August 26: Introductions
 #### August 28: Art in the Stone Age
 * _Cave of Forgotten Dreams_ (2010): Documentary. "Werner Herzog gains exclusive access to film inside the Chauvet caves of Southern France and captures the oldest known pictorial creations of humanity." (IMDb)
-#### Friday, August 30: Field Trip to Science Museum of Virginia (5:15 pm)
+#### Friday, August 30, 5:15 pm: Field Trip to Science Museum of Virginia (5:15 pm)
 #### September 2: Art in the Stone Age
 #### September 4: Ancient Mesopotamia and Persia
 #### September 9: Ancient Mesopotamia and Persia
@@ -41,5 +41,5 @@ Lecture by Dr. Ömür Harmansah. 6 pm, Gottwald Auditorium.
 #### November 27: Thanksgiving Break
 #### December 2: Field Trip to Rare Book Room
 #### December 4: Field Trip to Rare Book Room
-#### Thursday, December 5: Review and Conclusions
+#### Thursday, December 5, 5:30 pm: Review and Conclusions
 #### December 9: Final Exam (9 am-12 pm)
