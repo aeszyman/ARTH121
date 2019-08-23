@@ -1,9 +1,13 @@
 # Introduction to Mediterranean Art and Architecture: Prehistory through the Middle Ages
 
 Agnieszka E. Szymańska, PhD
+
 aszymans@richmond.edu
+
 Visual Arts 212
+
 (804) 289-8768
+
 Office Hours: Wednesdays 4-6 pm or by appointment
 
 This introductory-level course examines art historical methods and their application to a broad, roughly chronological survey of Mediterranean art and architecture from Prehistory to the Middle Ages. Field trips to the Science Museum of Virginia, Virginia Museum of Fine Arts, and Boatwright Memorial Library (Rare Book Room Space) enhance the understanding of historical traditions and critical methods taught in class lectures and discussions. This course satisfies the General Education category of Historical Studies (FSHT).
