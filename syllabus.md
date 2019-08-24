@@ -95,6 +95,7 @@ Lecture by Dr. Ömür Harmansah. 6 pm, Gottwald Auditorium.
 #### November 11: Romanesque Europe
 * Assignment 8
 #### November 13: Romanesque Europe
+* Paper 2 Thesis
 ###### Week 13
 #### November 18: Gothic Europe
 * Assignment 9
