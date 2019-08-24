@@ -31,7 +31,7 @@ Research demonstrates that when you participate in class discussion, it benefits
 
 ## Course Materials
 Fred S. Kleiner, _Gardner’s Art through the Ages: The Western Perspective_, volume 1, 15th edition.
-Course materials are available available through [Github repository](.
+Course materials are available available through [Github repository](https://github.com/aeszyman/ARTH121).
 
 ## Grading
 | Course Component | Percentage |
