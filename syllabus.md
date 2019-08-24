@@ -106,5 +106,6 @@ Lecture by Dr. Ömür Harmansah. 6 pm, Gottwald Auditorium.
 #### December 2: Field Trip to Rare Book Room
 #### December 4: Field Trip to Rare Book Room
 #### Thursday, December 5, 5:30 pm: Review and Conclusions
+* Paper 2
 ###### Final Exam
 #### December 9, 9 am-12 pm
