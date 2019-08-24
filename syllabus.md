@@ -31,6 +31,7 @@ Research demonstrates that when you participate in class discussion, it benefits
 
 ## Course Policies
 The use of cell phones and recording devices is prohibited.
+
 The use of laptops is discouraged. If you absolutely need to use a laptop, you may only do so to take notes or pull up files relevant to class.
 
 ## Course Materials
