@@ -51,7 +51,7 @@ Course materials are available through [Github repository](https://github.com/ae
 #### September 2: Art in the Stone Age
 #### September 4: Ancient Mesopotamia and Persia
 
-Assignment 1 due.
+Assignment 1
 #### September 9: Ancient Mesopotamia and Persia
 #### September 11: Egypt from Narmer to Cleopatra
 #### September 16: Egypt from Narmer to Cleopatra
