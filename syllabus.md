@@ -49,27 +49,36 @@ There will be ten one-page weekly assignments in this course. They will not be g
 ###### Week 1
 #### August 26: Introductions
 #### August 28: Art in the Stone Age
+* Textbook: Chapter 1
 #### Friday, August 30, 5:15 pm: Field Trip to Science Museum of Virginia
 ###### Week 2
 #### September 2: Art in the Stone Age
+* Textbook: Chapter 1
 #### September 4: Ancient Mesopotamia and Persia
-
+* Textbook: Chapter 2
 * Assignment 1
 ###### Week 3
 #### September 9: Ancient Mesopotamia and Persia
+* Textbook: Chapter 2
 #### September 11: Egypt from Narmer to Cleopatra
+* Textbook: Chapter 3
 * Assignment 2
 #### Friday, September 13, 5:30 pm: Field Trip to Virginia Museum of Fine Arts
 ###### Week 4
 #### September 16: Egypt from Narmer to Cleopatra
+* Textbook: Chapter 3
 #### September 18: The Prehistoric Aegean
+* Textbook: Chapter 4
 * Assignment 3
 ###### Week 5
 #### September 23: Ancient Greece
+* Textbook: Chapter 5
 * Assignment 4
 #### September 25: Ancient Greece
+* Textbook: Chapter 5
 ###### Week 6
 #### September 30: Ancient Greece
+* Textbook: Chapter 5
 #### October 2: Review
 * Paper 1
 #### October 3: "Ruined Gardens of Babylon: Dark Ecology and Heritage Politics in the Middle East"
@@ -77,31 +86,43 @@ Lecture by Dr. Ömür Harmansah. 6 pm, Gottwald Auditorium.
 ###### Week 7
 #### October 7: Midterm Exam
 #### October 9: The Etruscans
+* Textbook: Chapter 6
 ###### Week 8
 #### October 14: Fall Break
 #### October 16: The Roman Empire
+* Textbook: Chapter 7
 * Assignment 5
 ###### Week 9
 #### October 21: The Roman Empire
+Textbook: Chapter 7
 #### October 23: The Roman Empire
+Textbook: Chapter 7
 ###### Week 10
 #### October 28: Late Antiquity
+Textbook: Chapter 8
 #### October 30: Byzantium
+* Textbook: Chapter 9
 * Assignment 6
 ###### Week 11
 #### November 4: The Islamic World
+* Textbook: Chapter 10
 * Assignment 7
 #### November 6: Early Medieval Europe
+* Textbook: Chapter 11
 * Paper 2 Bibliography
 ###### Week 12
 #### November 11: Romanesque Europe
+* Textbook: Chapter 12
 * Assignment 8
 #### November 13: Romanesque Europe
+* Textbook: Chapter 12
 * Paper 2 Thesis
 ###### Week 13
 #### November 18: Gothic Europe
+* Textbook: Chapter 13
 * Assignment 9
 #### November 20: Gothic Europe
+* Textbook: Chapter 13
 * Paper 2 Outline
 ###### Week 14
 #### November 25: Assignment 10
