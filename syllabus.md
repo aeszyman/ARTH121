@@ -88,12 +88,14 @@ Lecture by Dr. Ömür Harmansah. 6 pm, Gottwald Auditorium.
 #### November 6: Early Medieval Europe
 ###### Week 12
 #### November 11: Romanesque Europe
+* Assignment 8
 #### November 13: Romanesque Europe
 ###### Week 13
 #### November 18: Gothic Europe
+* Assignment 9
 #### November 20: Gothic Europe
 ###### Week 14
-#### November 25: Field Trip to Rare Book Room
+#### November 25: Assignment 10
 #### November 27: Thanksgiving Break
 ###### Week 15
 #### December 2: Field Trip to Rare Book Room
