@@ -13,14 +13,8 @@ Office Hours: Wednesdays 4-6 pm or by appointment
 ## Course Description
 This introductory-level course examines art historical methods and their application to a broad, roughly chronological survey of Mediterranean art and architecture from Prehistory to the Middle Ages. Field trips to the Science Museum of Virginia, Virginia Museum of Fine Arts, and Boatwright Memorial Library (Rare Book Room Space) enhance the understanding of historical traditions and critical methods taught in class lectures and discussions.
 
-In this course, which situates major works of premodern art and architecture in their historical contexts, students gain an understanding of the impact of disparate cultures and societies on 
-their physical and epistemological environments. Every week, students critically analyze and 
-discuss primary sources, both visual and textual. By emphasizing topics such as artistic 
-patronage, the rise and fall of empires, urban development, ritual practices, and organized 
-religious movements, this course fosters students’ understanding of each discussed culture’s 
-social structures and cultural norms that informed and were shaped by the material and visual 
-culture of the time. The content and assignments for this class focus on the Mediterranean 
-region, the Middle East, North Africa, and Europe from prehistoric to medieval times.
+In this course, which situates major works of premodern art and architecture in their historical contexts, students gain an understanding of the impact of disparate cultures and societies on their physical and epistemological environments. Every week, students critically analyze and discuss primary sources, both visual and textual. By emphasizing topics such as artistic 
+patronage, the rise and fall of empires, urban development, ritual practices, and organized religious movements, this course fosters students’ understanding of each discussed culture’s social structures and cultural norms that informed and were shaped by the material and visual culture of the time. The content and assignments for this class focus on the Mediterranean region, the Middle East, North Africa, and Europe from prehistoric to medieval times.
 
 This course satisfies the General Education category of Historical Studies (FSHT).
 
@@ -34,6 +28,10 @@ Although this course includes an overview of major monuments and works of art, i
 
 ## Class Discussion
 Research demonstrates that when you participate in class discussion, it benefits you. Most of you will pursue careers that require you to work in teams. To be an effective team member, one must be able to engage in dialogue, learn from colleagues, and help deal with challenges as a group. It is OK to challenge and refute ideas or positions, but not acceptable to attack someone personally or engage in name-calling.
+
+## Course Materials
+Fred S. Kleiner, _Gardner’s Art through the Ages: The Western Perspective_, volume 1, 15th edition.
+Course materials are available available through [Github repository](.
 
 ## Grading
 | Course Component | Percentage |
