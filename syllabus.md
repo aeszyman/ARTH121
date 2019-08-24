@@ -91,6 +91,7 @@ Lecture by Dr. Ömür Harmansah. 6 pm, Gottwald Auditorium.
 #### November 4: The Islamic World
 * Assignment 7
 #### November 6: Early Medieval Europe
+* Paper 2 Bibliography
 ###### Week 12
 #### November 11: Romanesque Europe
 * Assignment 8
