@@ -47,40 +47,54 @@ Course materials are available through [Github repository](https://github.com/ae
 ###### Week 1
 #### August 26: Introductions
 #### August 28: Art in the Stone Age
-* _Cave of Forgotten Dreams_ (2010): Documentary. "Werner Herzog gains exclusive access to film inside the Chauvet caves of Southern France and captures the oldest known pictorial creations of humanity." (IMDb)
-#### Friday, August 30, 5:15 pm: Field Trip to Science Museum of Virginia (5:15 pm)
+#### Friday, August 30, 5:15 pm: Field Trip to Science Museum of Virginia
+###### Week 2
 #### September 2: Art in the Stone Age
 #### September 4: Ancient Mesopotamia and Persia
 
 * Assignment 1
+###### Week 3
 #### September 9: Ancient Mesopotamia and Persia
 #### September 11: Egypt from Narmer to Cleopatra
+###### Week 4
 #### September 16: Egypt from Narmer to Cleopatra
 #### September 18: The Prehistoric Aegean
 #### Field Trip to Virginia Museum of Fine Arts
+###### Week 5
 #### September 23: Ancient Greece
 #### September 25: Ancient Greece
+###### Week 6
 #### September 30: Ancient Greece
 #### October 2: Review
 #### October 3: "Ruined Gardens of Babylon: Dark Ecology and Heritage Politics in the Middle East"
 Lecture by Dr. Ömür Harmansah. 6 pm, Gottwald Auditorium.
+###### Week 7
 #### October 7: Midterm Exam
 #### October 9: The Etruscans
+###### Week 8
 #### October 14: Fall Break
 #### October 16: The Roman Empire
+###### Week 9
 #### October 21: The Roman Empire
 #### October 23: The Roman Empire
+###### Week 10
 #### October 28: Late Antiquity
 #### October 30: Byzantium
+###### Week 11
 #### November 4: The Islamic World
 #### November 6: Early Medieval Europe
+###### Week 12
 #### November 11: Romanesque Europe
 #### November 13: Romanesque Europe
+###### Week 13
 #### November 18: Gothic Europe
 #### November 20: Gothic Europe
+###### Week 14
 #### November 25: Field Trip to Rare Book Room
 #### November 27: Thanksgiving Break
+###### Week 15
 #### December 2: Field Trip to Rare Book Room
 #### December 4: Field Trip to Rare Book Room
 #### Thursday, December 5, 5:30 pm: Review and Conclusions
-#### December 9: Final Exam (9 am-12 pm)
+###### Final Exam
+#### December 9, 9 am-12 pm
