@@ -44,6 +44,7 @@ Course materials are available through [Github repository](https://github.com/ae
 | Final Exam | 20% |
 
 ## Schedule
+###### Week 1
 #### August 26: Introductions
 #### August 28: Art in the Stone Age
 * _Cave of Forgotten Dreams_ (2010): Documentary. "Werner Herzog gains exclusive access to film inside the Chauvet caves of Southern France and captures the oldest known pictorial creations of humanity." (IMDb)
