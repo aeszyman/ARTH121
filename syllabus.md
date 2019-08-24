@@ -99,6 +99,7 @@ Lecture by Dr. Ömür Harmansah. 6 pm, Gottwald Auditorium.
 #### November 18: Gothic Europe
 * Assignment 9
 #### November 20: Gothic Europe
+* Paper 2 Outline
 ###### Week 14
 #### November 25: Assignment 10
 #### November 27: Thanksgiving Break
