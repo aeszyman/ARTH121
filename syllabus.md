@@ -30,7 +30,7 @@ Although this course includes an overview of major monuments and works of art, i
 Research demonstrates that when you participate in class discussion, it benefits you. Most of you will pursue careers that require you to work in teams. To be an effective team member, one must be able to engage in dialogue, learn from colleagues, and help deal with challenges as a group. It is OK to challenge and refute ideas or positions, but not acceptable to attack someone personally or engage in name-calling.
 
 ## Course Materials
-Fred S. Kleiner, _Gardner’s Art through the Ages: The Western Perspective_, volume 1, 15th edition.
+Textbook: Fred S. Kleiner, _Gardner’s Art through the Ages: The Western Perspective_, volume 1, 15th edition.
 
 Course materials are available through [Github repository](https://github.com/aeszyman/ARTH121).
 
