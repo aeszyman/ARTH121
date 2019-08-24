@@ -59,11 +59,11 @@ There will be ten one-page weekly assignments in this course. They will not be g
 #### September 9: Ancient Mesopotamia and Persia
 #### September 11: Egypt from Narmer to Cleopatra
 * Assignment 2
+#### Friday, September 13, 5:30 pm: Field Trip to Virginia Museum of Fine Arts
 ###### Week 4
 #### September 16: Egypt from Narmer to Cleopatra
 #### September 18: The Prehistoric Aegean
 * Assignment 3
-#### Field Trip to Virginia Museum of Fine Arts
 ###### Week 5
 #### September 23: Ancient Greece
 * Assignment 4
