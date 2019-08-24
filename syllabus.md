@@ -71,6 +71,7 @@ There will be ten one-page weekly assignments in this course. They will not be g
 ###### Week 6
 #### September 30: Ancient Greece
 #### October 2: Review
+* Paper 1
 #### October 3: "Ruined Gardens of Babylon: Dark Ecology and Heritage Politics in the Middle East"
 Lecture by Dr. Ömür Harmansah. 6 pm, Gottwald Auditorium.
 ###### Week 7
