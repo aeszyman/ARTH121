@@ -60,6 +60,7 @@ Course materials are available through [Github repository](https://github.com/ae
 ###### Week 4
 #### September 16: Egypt from Narmer to Cleopatra
 #### September 18: The Prehistoric Aegean
+* Assignment 3
 #### Field Trip to Virginia Museum of Fine Arts
 ###### Week 5
 #### September 23: Ancient Greece
