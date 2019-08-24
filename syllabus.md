@@ -56,6 +56,7 @@ Course materials are available through [Github repository](https://github.com/ae
 ###### Week 3
 #### September 9: Ancient Mesopotamia and Persia
 #### September 11: Egypt from Narmer to Cleopatra
+* Assignment 2
 ###### Week 4
 #### September 16: Egypt from Narmer to Cleopatra
 #### September 18: The Prehistoric Aegean
