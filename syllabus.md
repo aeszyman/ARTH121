@@ -50,6 +50,8 @@ Course materials are available through [Github repository](https://github.com/ae
 #### Friday, August 30, 5:15 pm: Field Trip to Science Museum of Virginia (5:15 pm)
 #### September 2: Art in the Stone Age
 #### September 4: Ancient Mesopotamia and Persia
+
+Assignment 1 due.
 #### September 9: Ancient Mesopotamia and Persia
 #### September 11: Egypt from Narmer to Cleopatra
 #### September 16: Egypt from Narmer to Cleopatra
