@@ -39,7 +39,8 @@ Research demonstrates that when you participate in class discussion, it benefits
 | Course Component | Percentage |
 | ------------- | ------------- |
 | Attendance and Participation | 20% |
-| Paper | 40% |
+| Paper 1 | 20% |
+| Paper 2 | 20% |
 | Midterm Exam | 20% |
 | Final Exam | 20% |
 
