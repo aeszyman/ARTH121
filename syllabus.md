@@ -64,6 +64,7 @@ Course materials are available through [Github repository](https://github.com/ae
 #### Field Trip to Virginia Museum of Fine Arts
 ###### Week 5
 #### September 23: Ancient Greece
+* Assignment 4
 #### September 25: Ancient Greece
 ###### Week 6
 #### September 30: Ancient Greece
