@@ -77,12 +77,14 @@ Lecture by Dr. Ömür Harmansah. 6 pm, Gottwald Auditorium.
 ###### Week 8
 #### October 14: Fall Break
 #### October 16: The Roman Empire
+* Assignment
 ###### Week 9
 #### October 21: The Roman Empire
 #### October 23: The Roman Empire
 ###### Week 10
 #### October 28: Late Antiquity
 #### October 30: Byzantium
+* Assignment
 ###### Week 11
 #### November 4: The Islamic World
 #### November 6: Early Medieval Europe
