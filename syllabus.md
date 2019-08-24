@@ -43,7 +43,7 @@ Course materials are available through [Github repository](https://github.com/ae
 | Midterm Exam | 20% |
 | Final Exam | 20% |
 
-There will be ten one-page weekly assignments in this course. They will not be graded, but they will count towards your attendance and participation grade. If you would like to receive feedback on any of the assignments, please come see me during office hours or schedule an appointment.
+There will be ten one-page weekly assignments in this course. They will not be graded, but they will count towards your attendance and participation grade. If you would like to receive feedback on any of the weekly assignments, please come see me during office hours or schedule an appointment.
 
 ## Schedule
 ###### Week 1
