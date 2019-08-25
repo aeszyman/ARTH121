@@ -94,7 +94,7 @@ There will be ten one-page weekly assignments in this course. They will not be g
 #### October 2: Review
 * Paper 1
 #### October 3: "Ruined Gardens of Babylon: Dark Ecology and Heritage Politics in the Middle East"
-Lecture by Dr. Ömür Harmansah. 6 pm, Gottwald Auditorium.
+* Lecture by Dr. Ömür Harmansah. 6 pm, Gottwald Auditorium.
 ###### Week 7
 #### October 7: Midterm Exam
 #### October 9: The Etruscans
@@ -106,12 +106,12 @@ Lecture by Dr. Ömür Harmansah. 6 pm, Gottwald Auditorium.
 * Assignment 5
 ###### Week 9
 #### October 21: The Roman Empire
-Textbook: Chapter 7
+* Textbook: Chapter 7
 #### October 23: The Roman Empire
-Textbook: Chapter 7
+* Textbook: Chapter 7
 ###### Week 10
 #### October 28: Late Antiquity
-Textbook: Chapter 8
+* Textbook: Chapter 8
 #### October 30: Byzantium
 * Textbook: Chapter 9
 * Assignment 6
