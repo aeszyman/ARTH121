@@ -137,7 +137,7 @@ There will be ten one-page weekly assignments in this course. They will not be g
 * Textbook: Chapter 13
 * Paper 2 Outline
 ###### Week 14
-#### November 25: Assignment 10
+#### November 25: Assignment 10: TBA
 #### November 27: Thanksgiving Break
 ###### Week 15
 #### December 2: Field Trip to Rare Book Room
@@ -145,5 +145,4 @@ There will be ten one-page weekly assignments in this course. They will not be g
 #### December 4: Field Trip to Rare Book Room
 #### Thursday, December 5, 5:30 pm: Review and Conclusions
 * Paper 2
-###### Final Exam
-#### December 9, 9 am-12 pm
+###### Final Exam: December 9, 9 am-12 pm
