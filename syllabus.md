@@ -49,8 +49,15 @@ Course materials are available through [Github repository](https://github.com/ae
 | Final Exam | 20% |
 
 There will be ten one-page weekly assignments in this course. They will not be graded, but they will count towards your attendance and participation grade. If you would like to receive feedback on any of the weekly assignments, please come see me during office hours or schedule an appointment.
+## Grading Schema
+| Excellent | Good | Average | Poor |
+| ------------- | ------------- | ------------- | ------------- |
+| 97-100% = A+ | 87-90% = B+ | 77-80% = C+ | 67-70% = D+ |
+| 94-97% = A | 84-87 = B | 74-77% = C | 64-67% = D |
+| 90-94% = A- | 80-84% = B- | 70-74% = C- | 60-64% = D- |
 
 ## Schedule
+(_subject to change_)
 ###### Week 1
 #### August 26: Introductions
 #### August 28: Art in the Stone Age
