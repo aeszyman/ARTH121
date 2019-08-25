@@ -134,6 +134,7 @@ Textbook: Chapter 8
 #### November 27: Thanksgiving Break
 ###### Week 15
 #### December 2: Field Trip to Rare Book Room
+#### December 3, 10:30 am: Field to Rare Book Room
 #### December 4: Field Trip to Rare Book Room
 #### Thursday, December 5, 5:30 pm: Review and Conclusions
 * Paper 2
