@@ -59,7 +59,7 @@ There will be ten one-page weekly assignments in this course. They will not be g
 ## Schedule
 (_subject to change_)
 ###### Week 1
-#### August 26: Introductions
+#### August 26: What Is Art History?
 #### August 28: Art in the Stone Age
 * Textbook: Chapter 1
 #### Friday, August 30, 5:15 pm: Field Trip to Science Museum of Virginia
