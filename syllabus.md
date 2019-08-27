@@ -1,4 +1,4 @@
-# Introduction to Mediterranean Art and Architecture: Prehistory through the Middle Ages
+# Introduction to Mediterranean Art and Architecture: Prehistory through the Middle Ages (CRN 15426)
 
 Agnieszka E. Szymańska, PhD
 
