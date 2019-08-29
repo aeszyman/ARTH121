@@ -66,6 +66,7 @@ There will be ten one-page weekly assignments in this course. They will not be g
 ###### Week 2
 #### September 2: Art in the Stone Age
 * Textbook: Chapter 1
+* Watch [a virtual tour of Lascaux cave](http://archeologie.culture.fr/lascaux/en/node/9028/diverticule-axial). The video sometimes automatically begins in the last room (9), so be sure to rewind to the first room (click on number 1 at the bottom of the screen). As you are watching the video, think about the question of why there is art in paleolithic caves.
 #### September 4: Ancient Mesopotamia and Persia
 * Textbook: Chapter 2
 * Assignment 1
