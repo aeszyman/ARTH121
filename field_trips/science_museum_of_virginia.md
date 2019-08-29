@@ -1,6 +1,7 @@
 # Field Trip to Science Museum of Virginia
 ## When?
 Friday, August 30, 5:15 pm
+
 Meet me in front of the Museum at 5:15 pm.
 ## Where?
 Science Museum of Virginia
