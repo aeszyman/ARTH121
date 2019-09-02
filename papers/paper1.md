@@ -58,6 +58,7 @@ In the first paragraph, called the introduction, include:
 * what you think is the subject
 * a very brief description of the work
 * thesis statement (usually the last line or so of your first paragraph)
+
 From that point, the rest of the formal analysis should include not only a description of the piece, but especially those details of the work that have led you to come to your thesis. Yet, your paper should not be a random flow of ideas about the work (i.e. stream of consciousness writing). Rather, your paper should have a sense of order, moving purposefully through your description with regard to specific elements (ex: one paragraph may deal with composition, another with a description of the figures, another with the background, another about line, etc.). Finally, in your conclusion (the final paragraph) you should end your paper with a restatement of your thesis.
 
 **No research is to be used in this paper.** In other words, you are strictly relying on your ability to visually ‘read’ a work of art and make interpretations about it based on your analysis of it. Remember too that your analysis should not be just a mechanical, physical description.
