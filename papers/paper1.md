@@ -83,5 +83,6 @@ An excellent paper will:
 * will have no typographical errors;
 * have a cohesive paragraph organization (topic sentences and effective transitions);
 * include a concluding paragraph;
-* comply with the formatting requirements for this paper
-* be submitted on time.
+* comply with the formatting requirements for this paper;
+* be submitted on time;
+* use NO research
