@@ -85,4 +85,4 @@ An excellent paper will:
 * include a concluding paragraph;
 * comply with the formatting requirements for this paper;
 * be submitted on time;
-* use NO research
+* use NO research.
