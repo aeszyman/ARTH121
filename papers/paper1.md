@@ -14,26 +14,35 @@ Record your first impression(s) of the artwork. What stands out? Is there a foca
 Write a visual analysis of the selected artwork's formal elements. A formal analysis includes an analysis of the forms appearing in the work you have chosen. These forms give the work its expression, message, or meaning. To aid in writing a formal analysis, you should think as if you were describing the work of art to someone who has never seen it before. When your reader finishes reading your analysis, she should have a complete mental picture of what the work looks like. Certain basic terms, which are listed below, are indispensable for describing artworks and buildings of any time and place. They make up the essential vocabulary of formal analysis, that is the visual analysis of artistic form. Keep in mind that you always need to back up your statements.
 * form
 * composition
+
 How are the parts of the work arranged? Is there a stable or unstable composition? Is it dynamic? Full of movement? Or is it static?
 * material and technique
 * line
+
 Are the outlines (whether perceived or actual) smooth, fuzzy, clear? Are the main lines vertical, horizontal, diagonal, or curved, or a combination of any of these? Are the lines jagged and full of energy? Sketchy? Geometric? Curvilinear? Bold? Subtle?
 * color
+
 What type of colors are used in the work? Bright? Dull? Complimentary? Does the artist use colors to draw your attention to specific areas of the work? How? If a sculpture, examine the color(s) of the medium and how it affects the work.
 * texture
+
 If a sculpture, is the surface smooth and polished or rough? Are there several textures conveyed? Where and how? If a painting, is there any texture to the paint surface? Are the brushstrokes invisible? Brushy? Sketchy? Loose and flowing? Or tight and controlled?
 * space
+
 If the artist conveys space, what type of space is used? What is the relation of the main figure to the space around it? Are the main figures entirely within the space (if the artwork is a painting), or are parts of the bodies cut off by the edge of the artwork? Is the setting illusionistic, as if one could enter the space of the painting, or is it flat and two-dimensional, a space that one could not possibly enter?
 * mass
 * volume
 * perspective and foreshortening
 * proportion
+
 Does the whole or even individual parts of the figure(s) or natural objects in the work look naturalistic? Why did you come to this conclusion?
 * scale
+
 How big is the artwork? Are the figures or objects in the work life-sized, larger or smaller than life? How does the size affect the work?
 * pose
+
 If the work has figures, are the proportions believable? Realistic? Describe the pose(s). Is the figure active, calm, graceful, stiff, tense, or relaxed? Does the figure convey a mood? If there are several figures, how do they relate to each other (do they interact? not?)?
 * light and shadow
+
 Are shadows visible? Where? Are there dark shadows, light shadows, or both? How do the shadows affect the work?
 
 Please use descriptive language and adjectives to describe your work. Begin with a general description of the work, and then move on to the more specific elements.
