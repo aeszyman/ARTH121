@@ -72,3 +72,16 @@ Margins: 1 inch
 * [Writing Center](https://writing.richmond.edu/)
 * Sylvan Barnet, _A Short Guide to Writing about Art_ (New York: Pearson/Longman, c2005)
 * I encourage you to see me during office hours or schedule an appointment if you want to discuss any aspect of your paper. 
+
+## Grading
+An excellent paper will:
+* have an introductory paragraph with all the required elements;
+* have a clear and strong thesis statement;
+* incorporate a discussion of formal elements;
+* be analytical, not merely descriptive;
+* be written clearly in terms of grammar, punctuation, and syntax;
+* will have no typographical errors;
+* have a cohesive paragraph organization (topic sentences and effective transitions);
+* include a concluding paragraph;
+* comply with the formatting requirements for this paper
+* be submitted on time.
