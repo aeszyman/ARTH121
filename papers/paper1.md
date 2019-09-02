@@ -22,7 +22,7 @@ The formal analysis is more than just a description of the work. It should also 
 
 ## Introduction
 In the first paragraph, called the introduction, include:
-* the name of the artist (if known),title (which is + underlined +
+* the name of the artist (if known),title (which is +underlined+
 
 ## Format for the Paper
 Font: Times New Roman, 12 pt, black
