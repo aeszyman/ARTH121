@@ -17,3 +17,5 @@ Oleson, John Peter. _The Oxford Handbook of Engineering and Technology in the Cl
 Papadopoulos, John K. "The Motya Youth: Apollo Karneios, Art, and Tyranny in the Greek West." _The Art Bulletin_ 46.4 (December 2014): 395-423.
 
 Pastoors, Andreas et al. "Tracking in Caves: Experience based reading of Pleistocene human footprints in French caves." _Cambridge Archaeological Journal_ (2015): 1-14.
+
+Stewart, Peter. "The Equestrian Statues of Marcus Aurelius." In _A Companion to Marcus Aurelius_. Edited by Marcel van Ackeren, 264-277. Wiley-Blackwell, 2012.
