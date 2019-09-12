@@ -1,7 +1,7 @@
 # Virginia Museum of Fine Arts
 
 ## When?
-Friday, September 13, 5:30 pm
+Friday, September 13, 4:00 pm
 
 ## Where?
 [Virginia Museum of Fine Arts](https://www.vmfa.museum/)
