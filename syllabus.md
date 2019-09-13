@@ -83,6 +83,8 @@ There will be ten one-page weekly assignments in this course. They will not be g
 #### September 18: The Prehistoric Aegean
 * Textbook: Chapter 4
 * Assignment 3
+#### September 20: "Discovering Babylon"
+* Lecture by Dr. Rannfrid Thelle. 4 pm, Jepson Hall 118.
 ###### Week 5
 #### September 23: Ancient Greece
 * Textbook: Chapter 5
