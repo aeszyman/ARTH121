@@ -94,6 +94,7 @@ There will be ten one-page weekly assignments in this course. They will not be g
 ###### Week 6
 #### September 30: Ancient Greece
 * Textbook: Chapter 5
+* Send works of art that you want to review on October 2.
 #### October 2: Review
 * Paper 1
 #### October 3: "Ruined Gardens of Babylon: Dark Ecology and Heritage Politics in the Middle East"
