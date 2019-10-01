@@ -1,4 +1,6 @@
 ###### Midterm
+Works of Art and Architecture
+
 1. Hall of the Bulls in the cave at Lascaux, France, ca. 15,000 BCE. (1-1)
 2. Nude woman, from Willendorf, Austria, ca. 25,000 BCE. Limestone. (1-4)
 3. Stonehenge, England, ca. 1600 BCE. (1-20)
@@ -24,6 +26,12 @@
 23. Philoxenos of Eretria, _Battle of Issus_, ca. 310 BCE. Roman copy from the House of the Faun, Pompeii, Italy, late second or early first century BCE. Tessera mosaic. (5-70)
 24. _Nike of Samothrace_, from Samothrace, Greece, ca. 190 BCE. Marble. (5-83)
 25. Athanadoros, Hagesandros, and Polydoros of Rhodes, Laocoön and his sons, from Rome, Italy, early first century CE. Marble. (5-89)
+
+Source Documents:
+1. _The Legend of Sargon_
+2. _The Ancient Egyptian Pyramid Texts_
+3. "The Palace of Knossos"
+3. Polykleitos of Argos
 
 ###### Final
 26. Interior of the Tomb of the Leopards, Tarquinia, Italy, ca. 480 BCE. (6-1)
