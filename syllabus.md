@@ -98,7 +98,7 @@ There will be ten one-page weekly assignments in this course. They will not be g
 #### October 2: Review
 * Paper 1
 #### October 3: "Ruined Gardens of Babylon: Dark Ecology and Heritage Politics in the Middle East"
-* Lecture by Dr. Ömür Harmansah. 6 pm, Gottwald Auditorium.
+* Lecture by Dr. Ömür Harmansah. 6 pm, Jepson 103.
 ###### Week 7
 #### October 7: Midterm Exam
 #### October 9: The Etruscans
