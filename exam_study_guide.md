@@ -33,6 +33,18 @@ Source Documents:
 3. "The Palace of Knossos"
 3. Polykleitos of Argos
 
+Part I: Identify and Analyze (50 points)
+
+First, identify the work of art or architecture. Then, analyze the artwork’s main art historical significance. If possible, make references to specific source documents discussed in the course.
+
+Part II: Analyze Primary Sources (25 points)
+
+Write a brief essay in which you analyze the work of art or architecture alongside an excerpt from a relevant source document. Your essay should consider how the primary source text augments, nuances, or confounds your analysis of the artwork. And, vice versa, discuss how the artwork affects your analysis of the textual source document. Finally, consider how the two kinds of primary sources, that is image and text, contribute to your understanding of the historical and cultural context in which the artwork and the source document were created. Draw on your knowledge of the work of art or architecture, and of the artistic and historical period in which it was created. First, identity the work of art or architecture.
+
+Part III: Compare Two Works of Art and/or Architecture
+
+First, identify the two works of art and/or architecture. Then, write a comparison essay in response to the provided prompt. If possible, make references to specific source documents discussed in the course.
+
 ###### Final
 26. Interior of the Tomb of the Leopards, Tarquinia, Italy, ca. 480 BCE. (6-1)
 27. Apotheosis of Antoninus Pius and Faustina, relief on the pedestal of the Column of Antoninus Pius, Rome, Italy, ca. 160 BCE. Marble. (7-1)
