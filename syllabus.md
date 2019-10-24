@@ -118,7 +118,6 @@ There will be ten one-page weekly assignments in this course. They will not be g
 * Textbook: Chapter 7
 #### October 30: Late Antiquity
 * Textbook: Chapter 8
-* Assignment 6
 ###### Week 11
 #### November 4: Byzantium
 * Textbook: Chapter 9
