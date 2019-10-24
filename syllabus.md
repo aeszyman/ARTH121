@@ -114,34 +114,36 @@ There will be ten one-page weekly assignments in this course. They will not be g
 #### October 23: The Roman Empire
 * Textbook: Chapter 7
 ###### Week 10
-#### October 28: Late Antiquity
+#### October 28: High and Late Roman Empire
+* Textbook: Chapter 7
+#### October 30: Late Antiquity
 * Textbook: Chapter 8
-#### October 30: Byzantium
-* Textbook: Chapter 9
 * Assignment 6
 ###### Week 11
-#### November 4: The Islamic World
+#### November 4: Byzantium
+* Textbook: Chapter 9
+* Assignment 6
+#### November 6: The Islamic World
 * Textbook: Chapter 10
 * Assignment 7
-#### November 6: Early Medieval Europe
-* Textbook: Chapter 11
 * Paper 2 Bibliography
 ###### Week 12
-#### November 11: Romanesque Europe
-* Textbook: Chapter 12
-* Assignment 8
+#### November 11: Early Medieval Europe
+* Textbook: Chapter 11
 #### November 13: Romanesque Europe
 * Textbook: Chapter 12
 * Paper 2 Thesis
 ###### Week 13
-#### November 18: Gothic Europe
-* Textbook: Chapter 13
-* Assignment 9
+#### November 18: Romanesque Europe
+* Textbook: Chapter 12
+* Assignment 8
 #### November 20: Gothic Europe
 * Textbook: Chapter 13
 * Paper 2 Outline
 ###### Week 14
-#### November 25: Assignment 10: TBA
+#### November 25: Gothic Europe
+* Textbook: Chapter 13
+* Assignment 9
 #### November 27: Thanksgiving Break
 ###### Week 15
 #### December 2: Field Trip to Rare Book Room
