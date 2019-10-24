@@ -114,7 +114,7 @@ There will be ten one-page weekly assignments in this course. They will not be g
 #### October 23: The Roman Empire
 * Textbook: Chapter 7
 ###### Week 10
-#### October 28: High and Late Roman Empire
+#### October 28: The High and Late Roman Empire
 * Textbook: Chapter 7
 #### October 30: Late Antiquity
 * Textbook: Chapter 8
