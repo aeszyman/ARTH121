@@ -3,7 +3,8 @@
 5 pages (typed in [Microsoft Word](https://is.richmond.edu/hardware-software/office-365/index.html), double-spaced)
 
 Upload to Box.
-
+| Component | Due Date |
+| ------------- | ------------- |
 | Bibliography | November 10 |
 | Research Question| November 17 |
 | Outline | November 24 |
