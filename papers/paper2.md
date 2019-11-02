@@ -40,7 +40,7 @@ Research questions help writers focus their research by providing a path through
 ## Outline
 The outline has to include the following elements:
 * thesis statement (clear, focused, concise, complex, arguable)
-* topic sentence for each paragraph
+* topic sentences for each paragraph
 
 ## Format for the Paper
 Font: Times New Roman, 12 pt, black
