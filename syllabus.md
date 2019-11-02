@@ -131,7 +131,7 @@ There will be ten one-page weekly assignments in this course. They will not be g
 * Textbook: Chapter 11
 #### November 13: Romanesque Europe
 * Textbook: Chapter 12
-* Paper 2 Thesis
+#### November 17: Paper 2 Thesis
 ###### Week 13
 #### November 18: Romanesque Europe
 * Textbook: Chapter 12
