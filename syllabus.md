@@ -148,6 +148,7 @@ There will be ten one-page weekly assignments in this course. They will not be g
 #### December 2: Field Trip to Rare Book Room
 #### December 3, 10:30 am: Field to Rare Book Room
 #### December 4: Field Trip to Rare Book Room
-#### Thursday, December 5, 5:30 pm: Review and Conclusions
 * Paper 2
+#### Thursday, December 5, 5:30 pm: Review and Conclusions
+
 ###### Final Exam: December 9, 9 am-12 pm
