@@ -125,7 +125,7 @@ There will be ten one-page weekly assignments in this course. They will not be g
 #### November 6: The Islamic World
 * Textbook: Chapter 10
 * Assignment 7
-* Paper 2 Bibliography
+#### November 10: Paper 2 Bibliography
 ###### Week 12
 #### November 11: Early Medieval Europe
 * Textbook: Chapter 11
