@@ -122,15 +122,16 @@ There will be ten one-page weekly assignments in this course. They will not be g
 #### November 4: Byzantium
 * Textbook: Chapter 9
 * Assignment 6
-#### November 6: The Islamic World
+#### November 6: Byzantium and The Islamic World
+* Textbook: Chapter 9
 * Textbook: Chapter 10
-* Assignment 7
 #### November 10: Paper 2 Bibliography
 ###### Week 12
-#### November 11: Early Medieval Europe
+#### November 11: The Islamic World
+* Textbook: Chapter 10
+* Assignment 7
+#### November 13: Early Medieval Europe
 * Textbook: Chapter 11
-#### November 13: Romanesque Europe
-* Textbook: Chapter 12
 #### November 17: Paper 2 Research Question
 ###### Week 13
 #### November 18: Romanesque Europe
