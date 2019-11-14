@@ -149,6 +149,7 @@ There will be ten one-page weekly assignments in this course. They will not be g
 #### December 2: Late Medieval Italy
 * Textbook: Chapter 14
 * Assignment 10
+* Send works of art that you want to review on December 4.
 #### December 4: Review
 * Paper 2
 ###### Final Exam: December 9, 9 am-12 pm
