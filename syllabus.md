@@ -136,9 +136,9 @@ There will be ten one-page weekly assignments in this course. They will not be g
 ###### Week 13
 #### November 18: Romanesque Europe
 * Textbook: Chapter 12
-* Assignment 8
 #### November 20: Gothic Europe
 * Textbook: Chapter 13
+* Assignment 8
 #### November 24: Paper 2 Outline
 ###### Week 14
 #### November 25: Gothic Europe
@@ -148,6 +148,7 @@ There will be ten one-page weekly assignments in this course. They will not be g
 ###### Week 15
 #### December 2: Late Medieval Italy
 * Textbook: Chapter 14
+* Assignment 10
 #### December 4: Review
 * Paper 2
 ###### Final Exam: December 9, 9 am-12 pm
