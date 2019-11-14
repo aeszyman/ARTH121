@@ -141,8 +141,7 @@ There will be ten one-page weekly assignments in this course. They will not be g
 * Assignment 8
 #### November 24: Paper 2 Outline
 ###### Week 14
-#### November 25: Gothic Europe
-* Textbook: Chapter 13
+#### November 25: Medieval Mediterranean Art
 * Assignment 9
 #### November 27: Thanksgiving Break
 ###### Week 15
