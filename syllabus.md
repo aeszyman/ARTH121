@@ -141,7 +141,7 @@ There will be ten one-page weekly assignments in this course. They will not be g
 * Assignment 8
 #### November 24: Paper 2 Outline
 ###### Week 14
-#### November 25: Medieval Mediterranean Art
+#### November 25: Medieval Mediterranean Art and Architecture
 * Assignment 9
 #### November 27: Thanksgiving Break
 ###### Week 15
