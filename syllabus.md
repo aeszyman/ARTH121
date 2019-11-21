@@ -147,6 +147,7 @@ There will be ten one-page weekly assignments in this course. They will not be g
 ###### Week 15
 #### December 2: Gothic Europe
 * Textbook: Chapter 13
+* Assignment 9
 * Send works of art that you want to review on December 4.
 #### December 4: Review
 * Paper 2
