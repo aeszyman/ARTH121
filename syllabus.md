@@ -136,18 +136,17 @@ There will be ten one-page weekly assignments in this course. They will not be g
 ###### Week 13
 #### November 18: Romanesque Europe
 * Textbook: Chapter 12
-#### November 20: Gothic Europe
-* Textbook: Chapter 13
+#### November 20: Romanesque Europe
+* Textbook: Chapter 12
 * Assignment 8
 #### November 24: Paper 2 Outline
 ###### Week 14
-#### November 25: Medieval Mediterranean Art and Architecture
-* Assignment 9
+#### November 25: Gothic Europe
+* Textbook: Chapter 13
 #### November 27: Thanksgiving Break
 ###### Week 15
-#### December 2: Late Medieval Italy
-* Textbook: Chapter 14
-* Assignment 10
+#### December 2: Gothic Europe
+* Textbook: Chapter 13
 * Send works of art that you want to review on December 4.
 #### December 4: Review
 * Paper 2
