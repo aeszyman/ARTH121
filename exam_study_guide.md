@@ -68,6 +68,6 @@ First, identify the two works of art and/or architecture. Then, write a comparis
 45. Reliquary statue of Sainte Foy, late 10th to early 11th century with later additions. Gold, silver gilt, jewels, and cameos over a wood core. (12-2)
 46. Gislebertus, _Last Judgment_, west tympanum of Saint-Lazare, Autun, France, ca. 1120. Marble. (12-15)
 47. Battle of Hastings, detail of the _Bayeux Tapestry_, from Bayeux Cathedral, Bayeux, France, ca. 1080. Embroidered wool on linen. (12-41)
-48. Cathedral of Reims, France, ca. 1290. (13-1)
+48. Cathedral of Chartres, France, rebuilt after 1194. (13-12)
 49. Pucelle, _Hours of Jeanne d'Evreux_, ca. 1325. (13-35A)
 50. _Castle of Love_, lid of a jewelry box, from Paris, France, ca. 1350. Ivory and iron. (13-38)
