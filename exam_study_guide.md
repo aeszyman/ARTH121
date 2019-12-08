@@ -47,7 +47,7 @@ First, identify the two works of art and/or architecture. Then, write a comparis
 
 ###### Final
 26. Interior of the Tomb of the Leopards, Tarquinia, Italy, ca. 480 BCE. (6-1)
-27. Apotheosis of Antoninus Pius and Faustina, relief on the pedestal of the Column of Antoninus Pius, Rome, Italy, ca. 160 BCE. Marble. (7-1)
+27. Apotheosis of Antoninus Pius and Faustina, relief on the pedestal of the Column of Antoninus Pius, Rome, Italy, ca. 160 CE. Marble. (7-1)
 28. Man with portrait busts of his ancestors, from Rome, Italy, late first century BCE. Marble. (7-7)
 29. Dionysiac mystery frieze, wall paintings in the Villa of the Mysteries, Pompeii, Italy, ca. 50 BCE. Fresco. (7-18)
 30. Portrait of Augustus as general, from Primaporta, Italy, early-first-century CE copy of a bronze original of ca. 20 BCE. Marble. (7-27)
